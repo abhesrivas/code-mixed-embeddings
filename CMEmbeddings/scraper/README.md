@@ -1,7 +1,7 @@
-# twitass
-Scrapes tweets from the Twitter Advanced Search webpage using TwitAss API
+# Custom twitass scraper
+Custom scraper that scrapes tweets from the Twitter Advanced Search webpage using the TwitAss API
 
-# How do I get set up? #
+# How do I set up? #
 
 ## Install the python modules
 
